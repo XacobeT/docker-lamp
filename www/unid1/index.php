@@ -9,11 +9,12 @@
         <div class="container-fluid">
             <?php
             
-                echo "<h1>¡Hola, Bienvenido al módulo de DWCS 2024-25!</h1>";
+                echo "<h1>UNIDAD 1</h1>";
             ?>
             <ul>
-                <li><a href='unid1'>Unidad 1 </a></li>
-            </ul>
+                <li><a href='tarea01.php'>Tarea 1 </a></li>
+            </ul>    
+            <p><a href=".."> Volver</a></p>    
         </div>
     </body>
 </html>
