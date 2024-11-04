@@ -1,6 +1,6 @@
 <?php
 $GLOBALS['tareas'] = [
-    ['id' => 1, 'titulo' => 'Informe semanal', 'descripcion' => 'Completar el informe semanal', 'estado' => 'pendiente'],
+    ['id' => 1, 'titulo' => 'Tarea semanal', 'descripcion' => 'Completar la Tarea semanal', 'estado' => 'pendiente'],
     ['id' => 2, 'titulo' => 'Revisión de código', 'descripcion' => 'Revisión del código del proyecto', 'estado' => 'en proceso'],
     ['id' => 3, 'titulo' => 'Presentación', 'descripcion' => 'Preparar presentación para la reunión', 'estado' => 'completada'],
 ];
