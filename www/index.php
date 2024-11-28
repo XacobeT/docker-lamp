@@ -33,7 +33,7 @@
                                 <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/9.anexos/3.tarea_ud02_formularios/index.html" target="_blank">Boletín 3. Formularios</a><br />
                                 <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/9.anexos/4.tarea_ud02_funciones/index.html" target="_blank">Boletín 4. Funciones</a><br />
                                 <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/9.anexos/5.tarea_ud02_librerias/index.html" target="_blank">Boletín 5. Librerías</a><br />
-                                <a href="#">Tarea</a>
+                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/10.tarea_ud02/index.html">Tarea</a>
                             </td>
                             <td>
                                 <a href="UD2/anexos/1.introduccion.php" target="_blank">Solución 1. Introducción</a><br />
@@ -41,7 +41,23 @@
                                 <a href="UD2/anexos/3.formularios.php" target="_blank">Solución 3. Formularios</a><br />
                                 <a href="UD2/anexos/4.funciones.php" target="_blank">Solución 4. Funciones</a><br />
                                 <a href="UD2/anexos/5.librerias.php" target="_blank">Solución 5. Librería funciones</a> + 
-                                <a href="UD2/anexos/5.librerias" target="_blank">index dividido</a><br />    
+                                <a href="UD2/anexos/5.librerias" target="_blank">index dividido</a><br />
+                                <a href="UD2/entregaTarea_solucion" target="_blank">Solución Tarea</a><br />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud03/index.html" target="_blank">Unidad 3</a></td>
+                            <td>
+                                <br />
+                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/7.anexos/1.aplicacion_tienda/index.html" target="_blank">Boletín 1. Tienda</a><br />
+                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/7.anexos/2.aplicacion_donacion/index.html" target="_blank">Boletín 2. Donación</a><br />
+                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud03/8.tarea_ud03/index.html">Tarea</a>
+                            </td>
+                            <td>
+                                <a href="UD3" target="_blank">Ejemplos unidad</a><br />
+                                <a href="UD3/anexos/1.tienda.php" target="_blank">Solución 1. Tienda</a><br />
+                                <a href="UD3/anexos/2.donacion.php" target="_blank">Solución 2. Donación</a><br />
+                                <a href="UD3/entregaTarea_solucion" target="_blank">Solución Tarea</a><br />
                             </td>
                         </tr>
                     </tbody>
